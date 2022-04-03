@@ -520,3 +520,18 @@
 2021-10-19 21:40:46,007 - logger_File -INFO - user clicked on continue button
 2021-10-19 21:40:46,037 - logger_File -INFO - account was created successfully
 2021-10-19 21:40:46,822 - logger_File -INFO - Scenario Create new user account in Test Environment PASSED
+2021-11-25 18:07:52,872 - logger_File -INFO - Scenario Create new user account in Test Environment Started
+2021-11-25 18:08:03,732 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-25 18:08:05,881 - logger_File -INFO - user clicked on MyAccount
+2021-11-25 18:08:08,095 - logger_File -INFO - user clicked on Register
+2021-11-25 18:08:09,078 - logger_File -INFO - user entered personal information [{firstName=alex, lastName=conor, email=alex112233@gmail.com, telephone=2021011122, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2021-11-25 18:08:09,412 - logger_File -INFO - user clicked on privacy and policy checkbox
+2021-11-25 18:08:10,584 - logger_File -INFO - user clicked on continue button
+2021-11-25 18:15:02,989 - logger_File -INFO - Scenario Retail website Login test Started
+2021-11-25 18:15:09,539 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-25 18:15:10,519 - logger_File -INFO - user clicked on MyAccount
+2021-11-25 18:15:11,287 - logger_File -INFO - user clicked on Login Option
+2021-11-25 18:15:11,734 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-25 18:15:13,001 - logger_File -INFO - user clicked on Login Button
+2021-11-25 18:15:13,105 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-11-25 18:15:14,220 - logger_File -INFO - Scenario Retail website Login test PASSED

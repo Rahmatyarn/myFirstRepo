@@ -21,7 +21,7 @@ public class CucumberReportingConfig {
 		
 
 		String buildNumber = "1";
-		String projectName = "Tek School Retail Website - Hawks";
+		String projectName = "Tek School bank";
 
 		Configuration configuration = new Configuration(reportOutputDirectory, projectName);
 		// optional configuration - check javadoc for details
